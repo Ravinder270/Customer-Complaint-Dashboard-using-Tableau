@@ -1,0 +1,3 @@
+ –Key performance indicators (KPIs) are prominently displayed at the top of the dashboard, showing figures for 'Total Complaints','Timely Response','Complaints In Progress','Disputed Rate', and 'Resolved at No Cost.'
+ – Complaints are categorized by 'Issue','State','Media',and 'Product.' A 'hex map' visualizes state data, while a 'Lollipop' chart represents media data.
+ – A 'Donut' chart illustrates the percentage of disputed customers.
